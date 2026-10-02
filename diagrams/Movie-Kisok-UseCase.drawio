@@ -1,0 +1,53 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="-8gs3SJfPHrLqyt7Z-Hm">
+    <mxGraphModel dx="1030" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zaXqWFLIcZuRWGmXIM5C-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="230" width="230" x="370" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zaXqWFLIcZuRWGmXIM5C-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Movie Theater Ticket Kisok" vertex="1">
+          <mxGeometry height="30" width="240" x="350" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zaXqWFLIcZuRWGmXIM5C-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="View Showtimes" vertex="1">
+          <mxGeometry height="30" width="160" x="390" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zaXqWFLIcZuRWGmXIM5C-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Select Seats" vertex="1">
+          <mxGeometry height="30" width="160" x="390" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="zaXqWFLIcZuRWGmXIM5C-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Purches Tickets" vertex="1">
+          <mxGeometry height="30" width="160" x="385" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="zaXqWFLIcZuRWGmXIM5C-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Customer" vertex="1">
+          <mxGeometry height="30" width="60" x="160" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zaXqWFLIcZuRWGmXIM5C-8" edge="1" parent="1" source="zaXqWFLIcZuRWGmXIM5C-7" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="zaXqWFLIcZuRWGmXIM5C-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="140" as="sourcePoint" />
+            <mxPoint x="280" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zaXqWFLIcZuRWGmXIM5C-14" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="zaXqWFLIcZuRWGmXIM5C-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="190" y="250" as="sourcePoint" />
+            <mxPoint x="440" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zaXqWFLIcZuRWGmXIM5C-15" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" target="zaXqWFLIcZuRWGmXIM5C-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="190" y="220" as="sourcePoint" />
+            <mxPoint x="240" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zaXqWFLIcZuRWGmXIM5C-16" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" target="zaXqWFLIcZuRWGmXIM5C-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="190" y="250" as="sourcePoint" />
+            <mxPoint x="240" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
